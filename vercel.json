@@ -11,6 +11,12 @@
       "destination": "https://www.naidunaturals.in/$1",
       "permanent": true
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/sitemap.xml/googleaeb5a985814069ab.html",
+      "destination": "/googleaeb5a985814069ab.html"
+    }
   ]
 }
 
