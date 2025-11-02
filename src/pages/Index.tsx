@@ -18,8 +18,8 @@ const Index = () => {
     "@type": "Organization",
     name: "Naidu Naturals",
     description: "Pure single-source buffalo milk — unblended, unprocessed, and naturally rich",
-    url: "https://naidunaturals.com",
-    logo: "https://naidunaturals.com/about.jpg",
+    url: "https://www.naidunaturals.in",
+    logo: "https://www.naidunaturals.in/about.jpg",
     sameAs: [
       // Add social media links here when available
     ],
@@ -40,9 +40,9 @@ const Index = () => {
     "@type": "LocalBusiness",
     name: "Naidu Naturals",
     description: "Pure single-source buffalo milk from a trusted source",
-    image: "https://naidunaturals.com/about.jpg",
-    "@id": "https://naidunaturals.com",
-    url: "https://naidunaturals.com",
+    image: "https://www.naidunaturals.in/about.jpg",
+    "@id": "https://www.naidunaturals.in",
+    url: "https://www.naidunaturals.in",
     telephone: "", // Add phone number when available
     address: {
       "@type": "PostalAddress",
@@ -61,7 +61,7 @@ const Index = () => {
         description="Experience the difference of single-source buffalo milk — unblended, unprocessed, and naturally rich. Pure milk from a trusted source delivered fresh."
         keywords="pure buffalo milk, single source milk, natural milk, organic milk, farm fresh milk, unprocessed milk, Naidu Naturals, buffalo milk subscription"
         image="/about.jpg"
-        url="https://naidunaturals.com"
+        url="https://www.naidunaturals.in"
         structuredData={[structuredData, organizationStructuredData]}
       />
       <div className="min-h-screen">

@@ -17,7 +17,7 @@ const SEO: React.FC<SEOProps> = ({
   description = "Experience the difference of single-source buffalo milk — unblended, unprocessed, and naturally rich. Pure milk from a trusted source.",
   keywords = "pure buffalo milk, single source milk, natural milk, organic milk, farm fresh milk, unprocessed milk, Naidu Naturals",
   image = "/about.jpg",
-  url = "https://naidunaturals.com",
+  url = "https://www.naidunaturals.in",
   type = "website",
   structuredData,
   noindex = false,

@@ -1,0 +1,16 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "naidunaturals.in"
+        }
+      ],
+      "destination": "https://www.naidunaturals.in/$1",
+      "permanent": true
+    }
+  ]
+}
+

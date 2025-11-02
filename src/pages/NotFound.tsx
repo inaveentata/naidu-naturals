@@ -7,7 +7,7 @@ const NotFound = () => {
       <SEO
         title="404 - Page Not Found"
         description="The page you are looking for could not be found."
-        url="https://naidunaturals.com/404"
+        url="https://www.naidunaturals.in/404"
         type="website"
         noindex={true}
       />

@@ -3,5 +3,5 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://naidunaturals.com/sitemap.xml
+Sitemap: https://www.naidunaturals.in/sitemap.xml
 
