@@ -2,6 +2,7 @@ import React from "react";
 import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
+import FarmerStorySection from "@/components/FarmerStorySection";
 import HowItWorksSection from "@/components/HowItWorksSection";
 import WhyChooseSection from "@/components/WhyChooseSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
@@ -69,6 +70,7 @@ const Index = () => {
         <main>
           <HeroSection />
           <AboutSection />
+          <FarmerStorySection />
           <HowItWorksSection />
           <WhyChooseSection />
           <TestimonialsSection />
